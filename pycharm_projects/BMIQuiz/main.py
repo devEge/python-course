@@ -12,7 +12,7 @@ from widgets.button_calculate import ButtonCalculate
 root = tk.Tk()
 
 # Root Configs
-root.title("BMI Calculater")
+root.title("BMI Calculator")
 root.minsize(width=500, height=500)
 
 # Weight Label Widget
